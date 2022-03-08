@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-echo "ls -la > ls_cwd_content" 
-=======
 #!/bi/bash
-$ls -la > ls_cwd_content
->>>>>>> b986bf6f76f055c2d9c5cd032f797b850dd1178a
+ls -la > ls_cwd_content
