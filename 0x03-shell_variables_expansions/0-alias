@@ -1,1 +1,2 @@
-ls="rrn*" 
+#!/bin/bash
+alias ls="rrn*" 
